@@ -1,0 +1,3 @@
+rootProject.name = "SmartReader"
+include ':app'
+project(':app').projectDir = new File('Geetha03/app')
